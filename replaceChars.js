@@ -1,4 +1,3 @@
-// https://github.com/mkalika/nifi-executescript-samples
 // https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-scripting-nar/1.17.0/org.apache.nifi.processors.script.ExecuteScript/additionalDetails.html
 // https://www.ssec.wisc.edu/~tomw/java/unicode.html#x0400
 
